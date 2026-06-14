@@ -72,6 +72,7 @@ AI-powered tools for upscaling, restoration, and enhancement.
 
 Full-featured online image editors without local installation.
 
+- [AI Image Combiner](https://aiimgcombiner.com/) – Browser-based tool that merges two photos into one image with AI, using preset styles or custom prompts.
 - [Photopea](https://www.photopea.com) – Web-based image editor with PSD support.
 - [Pixlr](https://pixlr.com) – Lightweight online photo editor with templates and effects.
 - [Canva](https://www.canva.com) – Design-focused editor suitable for social media and marketing visuals.
