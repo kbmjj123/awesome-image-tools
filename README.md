@@ -34,6 +34,7 @@ Tools for resizing, cropping, and basic dimension adjustments.
 - [ILoveIMG](https://www.iloveimg.com) – Resize, crop, and batch process images easily.
 - [Simple Image Resizer](https://www.simpleimageresizer.com) – Lightweight and straightforward image resizing tool.
 - [ResizePixel](https://www.resizepixel.com) – Resize and crop images with preview support.
+- [Mini-Tools.uk Image Tools](https://mini-tools.uk/image) - Self-recommending a browser image resize, crop, and compress tool for quick image dimension changes, JPG/WebP export, and local image editing without account setup.
 - [FreeSplitter](https://www.freesplitter.com/) – Split a single image into a specified number of parts according to your requirements.
 
 ---
