@@ -75,3 +75,4 @@ Full-featured online image editors without local installation.
 - [Photopea](https://www.photopea.com) – Web-based image editor with PSD support.
 - [Pixlr](https://pixlr.com) – Lightweight online photo editor with templates and effects.
 - [Canva](https://www.canva.com) – Design-focused editor suitable for social media and marketing visuals.
+- [ClearCrowds](https://www.clearcrowds.com) – AI photo cleanup editor for removing people, clutter, glasses glare, and unwanted objects from photos.
