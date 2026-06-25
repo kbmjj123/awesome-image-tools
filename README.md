@@ -44,6 +44,7 @@ Convert images between different formats.
 
 - [CloudConvert](https://cloudconvert.com) – High-quality image format conversion with API support.
 - [Convertio](https://convertio.co) – Supports a wide range of image formats and batch conversions.
+- [JXL Convert](https://jpegxlconvert.com) – Convert images to and from JPEG XL (.jxl) and HEIC to JPG/PNG, 100% in your browser with no upload; also opens and previews .jxl files.
 - [Online-Convert](https://image.online-convert.com) – Image conversion with optional advanced settings.
 
 ---
