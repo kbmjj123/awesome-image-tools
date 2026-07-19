@@ -24,6 +24,7 @@ Online tools for reducing image file size without noticeable quality loss.
 - [Compress JPEG](https://compressjpeg.com) – Simple bulk JPEG image compression online.
 - [Compress 50 KB](https://compress50kb.com/) – Compress images to exactly 50 KB, ideal for strict size limits.
 - [BulkPicTools](https://bulkpictools.com/) - A privacy-first, client-side batch image processor (Compress, Convert, Crop) based on WebAssembly.
+- [Quick Image Kit](https://quickimagekit.com/compress-image) – Browser-local image compression with resize, convert, and crop helpers for upload limits.
 
 ---
 
