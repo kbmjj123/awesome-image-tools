@@ -65,6 +65,7 @@ AI-powered tools for upscaling, restoration, and enhancement.
 - [Upscale.media](https://www.upscale.media) – AI image upscaling with minimal artifacts.
 - [Let’s Enhance](https://letsenhance.io) – Enhance resolution, colors, and details using AI.
 - [VanceAI Image Enhancer](https://vanceai.com) – AI tools for sharpening, denoising, and upscaling images.
+- [Crevisto](https://crevisto.com) – 100 niche AI image tools: action figures, Ghibli style, LinkedIn avatars, logo maker, photo restoration, and 95 more. CLI + REST API.
 
 ---
 
