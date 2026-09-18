@@ -55,6 +55,7 @@ Automatically remove or replace image backgrounds.
 - [Remove.bg](https://www.remove.bg) – One-click background removal powered by AI.
 - [PhotoRoom](https://www.photoroom.com) – Background removal and product photo editing.
 - [Pixian](https://pixian.ai) – Fast and accurate AI background removal tool.
+- [Background Remover](https://tomaserben.com/free-tools/image-background-remover) – Free browser tool to remove image backgrounds; no signup, runs locally in the browser.
 
 ---
 
