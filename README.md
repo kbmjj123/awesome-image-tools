@@ -75,3 +75,4 @@ Full-featured online image editors without local installation.
 - [Photopea](https://www.photopea.com) – Web-based image editor with PSD support.
 - [Pixlr](https://pixlr.com) – Lightweight online photo editor with templates and effects.
 - [Canva](https://www.canva.com) – Design-focused editor suitable for social media and marketing visuals.
+- [ImagineHero](https://imaginehero.com) – Free browser image editor with layers, PSD support and on-device background removal. No account or upload.
