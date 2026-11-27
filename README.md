@@ -26,6 +26,7 @@ Online tools for reducing image file size without noticeable quality loss.
 - [BulkPicTools](https://bulkpictools.com/) - A privacy-first, client-side batch image processor (Compress, Convert, Crop) based on WebAssembly.
 
 ---
+- [TinyMast](https://tinymast.com/image-compress/) – Compress up to 100 JPG/PNG/WebP/GIF images per batch to a KB target you set (20, 50 or 100 KB), with ZIP download.
 
 ## Resize & Crop
 
